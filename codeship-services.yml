@@ -1,18 +1,10 @@
-version: "2.0"
-services:
-  # PHP Application
-  app:
-    build: .
-    links:
-      - database
-    encrypted_env_file: .env.encrypted
-    command: cron -f
-  # Database
-  database:
-    image: mariadb
-    encrypted_env_file: .env.encrypted
-  # Composer
-  composer:
-    image: composer/composer
-    volumes:
-      - ./:/app
+app:
+  build:
+    image: codeship/app
+    dockerfile: Dockerfile
+  volumes_from:
+    - data
+data:
+  image: busybox
+  volumes:
+    - ./tmp/data:/data
