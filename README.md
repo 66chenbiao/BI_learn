@@ -12,4 +12,7 @@
 ## week2 推荐系统的基本算法
 [BI学习的第二次作业][3]
 
+[BI学习第一次课学习笔记][4]
+
 [3]:https://blog.csdn.net/weixin_43849871/article/details/109554033
+[4]:https://blog.csdn.net/weixin_43849871/article/details/109563087
