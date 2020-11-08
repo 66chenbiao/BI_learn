@@ -1,6 +1,6 @@
-sudo: required
+os: windows1809
 language: python
 before_install:
-  - sudo apt-get install python3.6.5
+  - pip install python3.6.5
 script:
   - python3 check.py $dirPath
