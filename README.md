@@ -16,3 +16,11 @@
 
 [3]:https://blog.csdn.net/weixin_43849871/article/details/109554033
 [4]:https://blog.csdn.net/weixin_43849871/article/details/109563087
+
+
+## week3 推荐系统眼中的你——用户画像
+[BI学习的第三次作业][5]
+
+[BI学习第三次课学习心得与笔记][6]
+
+[5]:https://blog.csdn.net/weixin_43849871/article/details/109692700
