@@ -1,5 +1,10 @@
-# BI_learn
+- [BI_learn](#bi-learn)
+  * [week1 初步认识什么是推荐系统](#week1------------)
+  * [week2 推荐系统的基本算法](#week2----------)
+  * [week3 推荐系统眼中的你——用户画像](#week3---------------)
+  
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 ## week1 初步认识什么是推荐系统
 [BI学习的第一次作业][1]
 
@@ -26,10 +31,5 @@
 [5]:https://blog.csdn.net/weixin_43849871/article/details/109692700
 
 
-- [BI_learn](#bi-learn)
-  * [week1 初步认识什么是推荐系统](#week1------------)
-  * [week2 推荐系统的基本算法](#week2----------)
-  * [week3 推荐系统眼中的你——用户画像](#week3---------------)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
