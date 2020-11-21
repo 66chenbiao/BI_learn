@@ -33,6 +33,14 @@
 [5]:https://blog.csdn.net/weixin_43849871/article/details/109692700
 [6]:https://blog.csdn.net/weixin_43849871/article/details/109701008
 
+## <span id = "week4">week4 ALS算法与推荐系统</span>
+[BI学习的第四次作业][7]
+
+[BI学习第四次课学习心得与笔记][8]
+
+[7]:https://blog.csdn.net/weixin_43849871/article/details/109692700
+[8]:https://blog.csdn.net/weixin_43849871/article/details/109701008
+
 
 
 
