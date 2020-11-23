@@ -38,8 +38,8 @@
 
 [BI学习第四次课学习心得与笔记][8]
 
-[7]:https://blog.csdn.net/weixin_43849871/article/details/109692700
-[8]:https://blog.csdn.net/weixin_43849871/article/details/109701008
+[7]:https://blog.csdn.net/weixin_43849871/article/details/109894736
+[8]:https://blog.csdn.net/weixin_43849871/article/details/109894835
 
 
 
