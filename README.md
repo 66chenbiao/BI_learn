@@ -47,7 +47,7 @@
 [BI学习第5次课学习心得与笔记][10]
 
 [9]:https://blog.csdn.net/weixin_43849871/article/details/110286079
-[10]:tps://blog.csdn.net/weixin_43849871/article/details/110286087
+[10]:https://blog.csdn.net/weixin_43849871/article/details/110286087
 
 
 
