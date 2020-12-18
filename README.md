@@ -50,4 +50,11 @@
 [10]:https://blog.csdn.net/weixin_43849871/article/details/110286087
 
 
+## <span id = "week6">week6 因子分解机, libFM与基于邻域的协同过滤</span>
+[BI学习的第6次作业][11]
+
+[BI学习第6次课学习心得与笔记][12]
+
+[11]:https://blog.csdn.net/weixin_43849871/article/details/110729053
+[12]:https://blog.csdn.net/weixin_43849871/article/details/110729172
 
