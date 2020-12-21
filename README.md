@@ -58,3 +58,11 @@
 [11]:https://blog.csdn.net/weixin_43849871/article/details/110729053
 [12]:https://blog.csdn.net/weixin_43849871/article/details/110729172
 
+## <span id = "week7">week7 CTR预估算法与基于流行度的推荐</span>
+[BI学习的第7次作业][13]
+
+[BI学习第7次课学习心得与笔记][14]
+
+[13]:https://blog.csdn.net/weixin_43849871/article/details/111239644
+[14]:https://blog.csdn.net/weixin_43849871/article/details/111239756
+
