@@ -66,3 +66,21 @@
 [13]:https://blog.csdn.net/weixin_43849871/article/details/111239644
 [14]:https://blog.csdn.net/weixin_43849871/article/details/111239756
 
+
+## <span id = "week8">week8 用户购买预测与基于流行度的推荐</span>
+[BI学习的第8次作业][15]
+
+[BI学习第8次课学习心得与笔记][16]
+
+[15]:https://blog.csdn.net/weixin_43849871/article/details/111239644
+[16]:https://blog.csdn.net/weixin_43849871/article/details/111768028
+
+
+
+## <span id = "week9">week9 用户购买预测与基于流行度的推荐</span>
+[BI学习的第9次作业][17]
+
+[BI学习第9次课学习心得与笔记][18]
+
+[17]:https://blog.csdn.net/weixin_43849871/article/details/112117326
+[18]:https://blog.csdn.net/weixin_43849871/article/details/112117209
