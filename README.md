@@ -2,6 +2,12 @@
   * [week1 初步认识什么是推荐系统](#week1)
   * [week2 推荐系统的基本算法](#week2)
   * [week3 推荐系统眼中的你——用户画像](#week3)
+  * [week4 ALS算法与推荐系统](#week4)
+  * [week5 SVD矩阵分解与基于内容的推荐](#week5)
+  * [week6 因子分解机, libFM与基于邻域的协同过滤](#week6)
+  * [week7 CTR预估算法与基于流行度的推荐](#week7)
+  * [week8 用户购买预测与基于流行度的推荐](#week8)
+  * [week9 用户购买预测与基于流行度的推荐](#week9)
   
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
