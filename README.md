@@ -93,10 +93,10 @@
 [18]:https://blog.csdn.net/weixin_43849871/article/details/112117209
 
 
-## <span id = "week9">week10 时间序列实战</span>
-[BI学习的第10次作业][17]
+## <span id = "week10">week10 时间序列实战</span>
+[BI学习的第10次作业][19]
 
-[BI学习第10次课学习心得与笔记][18]
+[BI学习第10次课学习心得与笔记][20]
 
 [19]:https://blog.csdn.net/weixin_43849871/article/details/113060463
 [20]:https://blog.csdn.net/weixin_43849871/article/details/113060470
