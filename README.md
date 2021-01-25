@@ -7,7 +7,8 @@
   * [week6 因子分解机, libFM与基于邻域的协同过滤](#week6)
   * [week7 CTR预估算法与基于流行度的推荐](#week7)
   * [week8 用户购买预测与基于流行度的推荐](#week8)
-  * [week9 用户购买预测与基于流行度的推荐](#week9)
+  * [week9 时间序列分析](#week9)
+  * [week10 时间序列实战](#week10)
   
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
