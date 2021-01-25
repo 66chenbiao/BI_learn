@@ -78,15 +78,24 @@
 
 [BI学习第8次课学习心得与笔记][16]
 
-[15]:https://blog.csdn.net/weixin_43849871/article/details/111239644
+[15]:https://blog.csdn.net/weixin_43849871/article/details/112483523
 [16]:https://blog.csdn.net/weixin_43849871/article/details/111768028
 
 
 
-## <span id = "week9">week9 用户购买预测与基于流行度的推荐</span>
+## <span id = "week9">week9 时间序列分析</span>
 [BI学习的第9次作业][17]
 
 [BI学习第9次课学习心得与笔记][18]
 
 [17]:https://blog.csdn.net/weixin_43849871/article/details/112117326
 [18]:https://blog.csdn.net/weixin_43849871/article/details/112117209
+
+
+## <span id = "week9">week10 时间序列实战</span>
+[BI学习的第10次作业][17]
+
+[BI学习第10次课学习心得与笔记][18]
+
+[19]:https://blog.csdn.net/weixin_43849871/article/details/113060463
+[20]:https://blog.csdn.net/weixin_43849871/article/details/113060470
