@@ -9,6 +9,8 @@
   * [week8 用户购买预测与基于流行度的推荐](#week8)
   * [week9 时间序列分析](#week9)
   * [week10 时间序列实战](#week10)
+  * [week11 资金流入流出预测](#week11)
+  * [week12 个性化推荐与金融数据分析](#week12)
   
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -100,3 +102,31 @@
 
 [19]:https://blog.csdn.net/weixin_43849871/article/details/113060463
 [20]:https://blog.csdn.net/weixin_43849871/article/details/113060470
+
+
+
+
+## <span id = "week11">week11 资金流入流出预测</span>
+[BI学习的第11次作业][21]
+
+[BI学习第11次课学习心得与笔记][22]
+
+[21]:https://shuihua.blog.csdn.net/article/details/113405210
+[22]:https://shuihua.blog.csdn.net/article/details/113405180
+
+
+
+## <span id = "week12">week12 资金流入流出预测</span>
+[BI学习的第12次作业][23]
+
+[BI学习第12次课学习心得与笔记][24]
+
+[23]:https://shuihua.blog.csdn.net/article/details/113729843
+[24]:https://shuihua.blog.csdn.net/article/details/113718572
+
+
+
+
+
+
+
