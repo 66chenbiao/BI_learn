@@ -1,16 +1,16 @@
-- [<span id = "bi-learn">BI_learn</span>](#-span-id----bi-learn--bi-learn--span-)
-  * [<span id = "week1">week1 初步认识什么是推荐系统</span>](#-span-id----week1--week1--------------span-)
-  * [<span id = "week2">week2 推荐系统的基本算法</span>](#-span-id----week2--week2------------span-)
-  * [<span id = "week3">week3 推荐系统眼中的你——用户画像</span>](#-span-id----week3--week3-----------------span-)
-  * [<span id = "week4">week4 ALS算法与推荐系统</span>](#-span-id----week4--week4-als---------span-)
-  * [<span id = "week5">week5 SVD矩阵分解与基于内容的推荐</span>](#-span-id----week5--week5-svd--------------span-)
-  * [<span id = "week6">week6 因子分解机, libFM与基于邻域的协同过滤</span>](#-span-id----week6--week6--------libfm------------span-)
-  * [<span id = "week7">week7 CTR预估算法与基于流行度的推荐</span>](#-span-id----week7--week7-ctr---------------span-)
-  * [<span id = "week8">week8 用户购买预测与基于流行度的推荐</span>](#-span-id----week8--week8------------------span-)
-  * [<span id = "week9">week9 时间序列分析</span>](#-span-id----week9--week9---------span-)
-  * [<span id = "week10">week10 时间序列实战</span>](#-span-id----week10--week10---------span-)
-  * [<span id = "week11">week11 资金流入流出预测</span>](#-span-id----week11--week11-----------span-)
-  * [<span id = "week12">week12 个性化推荐与金融数据分析</span>](#-span-id----week12--week12---------------span-)
+- [<span id = "bi-learn">BI_learn</span>](#bi-learn)
+  * [<span id = "week1">week1 初步认识什么是推荐系统</span>](#week1)
+  * [<span id = "week2">week2 推荐系统的基本算法</span>](#week2)
+  * [<span id = "week3">week3 推荐系统眼中的你——用户画像</span>](#week3)
+  * [<span id = "week4">week4 ALS算法与推荐系统</span>](#week4)
+  * [<span id = "week5">week5 SVD矩阵分解与基于内容的推荐</span>](#week5)
+  * [<span id = "week6">week6 因子分解机, libFM与基于邻域的协同过滤</span>](#week6)
+  * [<span id = "week7">week7 CTR预估算法与基于流行度的推荐</span>](#week7)
+  * [<span id = "week8">week8 用户购买预测与基于流行度的推荐</span>](#week8-)
+  * [<span id = "week9">week9 时间序列分析</span>](#week9)
+  * [<span id = "week10">week10 时间序列实战</span>](#week10)
+  * [<span id = "week11">week11 资金流入流出预测</span>](#week11)
+  * [<span id = "week12">week12 个性化推荐与金融数据分析</span>](#week12)
   * [<span id = "week13">week13 淘宝定向广告演化与天猫用户复购预测</span>](#week13)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -131,8 +131,8 @@
 
 [BI学习第13次课学习心得与笔记][26]
 
-[23]:https://shuihua.blog.csdn.net/article/details/114136431
-[24]:https://shuihua.blog.csdn.net/article/details/114136480
+[25]:https://shuihua.blog.csdn.net/article/details/114136431
+[26]:https://shuihua.blog.csdn.net/article/details/114136480
 
 
 
