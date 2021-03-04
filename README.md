@@ -11,7 +11,7 @@
   * [<span id = "week10">week10 时间序列实战</span>](#-span-id----week10--week10---------span-)
   * [<span id = "week11">week11 资金流入流出预测</span>](#-span-id----week11--week11-----------span-)
   * [<span id = "week12">week12 个性化推荐与金融数据分析</span>](#-span-id----week12--week12---------------span-)
-  * [<span id = "week13">week13 淘宝定向广告演化与天猫用户复购预测</span>](#-span-id----week13--week13--------------------span-)
+  * [<span id = "week13">week13 淘宝定向广告演化与天猫用户复购预测</span>](#week13)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
