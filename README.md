@@ -16,7 +16,13 @@
 
 <small><i><a href='https://toc.codepie.fun/'>GitHub Wiki TOC generator</a></i></small>
 
+
+
 # <span id="head1"> BI_learn</span>
+代码和PPT文件下载地址：链接：[https://pan.baidu.com/s/1Faw_7zwZyuEAt2sCXt-cSQ][download],提取码：8hy1 
+
+[download]:https://pan.baidu.com/s/1Faw_7zwZyuEAt2sCXt-cSQ
+
 
 ## <span id="head2">week1 初步认识什么是推荐系统</span>
 [BI学习的第1次作业][1]
