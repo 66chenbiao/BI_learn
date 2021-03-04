@@ -13,6 +13,9 @@
 	- [week12 个性化推荐与金融数据分析](#head13)
 	- [week13 淘宝定向广告演化与天猫用户复购预测](#head14)
 	- [week14 强化学习与推荐系统](#head15)
+
+<small><i><a href='https://toc.codepie.fun/'>GitHub Wiki TOC generator</a></i></small>
+
 # <span id="head1"> BI_learn</span>
 
 ## <span id="head2">week1 初步认识什么是推荐系统</span>
